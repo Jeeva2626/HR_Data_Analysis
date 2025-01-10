@@ -8,3 +8,26 @@ This analysis helps HR departments make informed decisions about recruitment, tr
 
 <a href="https://drive.google.com/drive/folders/1lCCKfdMWeQWrg39Fzg7wkLCU8fFnvVM7">dataset<a/>
 
+##  Question (KIP’s) :
+
+Headcount Analysis:
+1.	Show showcase year-on-year trends in headcount and attrition.
+2.	Display headcount breakdown based on gender.
+3.	Display headcount distribution across various age group.
+4.	Analyse headcount based on gender.
+5.	Breakdown of headcount by country.
+6.	Show headcount by different department.
+Slicer for Enhanced Analysis :
+-	Implement multiple slicer enabling dynamic filtering by department, country and employee full name.
+Data Refresh Information :
+-	Incorporate a visual element indicating the date and time of the last data refresh.
+By transforming this data into an insightful dashboard, the company will gain a cleaver understanding of their workforce dynamic and be better equipped to make informed decision.
+
+## Dashboard Screenshoots 
+
+<img width="579" alt="Dashboard" src="https://github.com/user-attachments/assets/74080ace-a574-4aa7-be99-adb069ec178e" />
+
+## Summary of Dashboard 
+
+<img width="571" alt="Summary (2)" src="https://github.com/user-attachments/assets/7d75ac32-fa20-4077-adb5-000259221ebf" />
+
