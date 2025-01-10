@@ -31,3 +31,14 @@ By transforming this data into an insightful dashboard, the company will gain a 
 
 <img width="571" alt="Summary (2)" src="https://github.com/user-attachments/assets/7d75ac32-fa20-4077-adb5-000259221ebf" />
 
+##  Project Insight 
+
+1.	By every year the headcount of the employees were increasing gradually by 34%.
+2.	The employee headcount was more then the job role, to avoid this the company but expand their offices.
+3.	The Asian counties performance is not well enough, want to improve the workforce there by 58% for better results. 
+4.	The female employee headcount is all most equal as male head count, this ensure the company good environment.
+
+## Final Conclusion :
+
+
+
